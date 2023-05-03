@@ -1,0 +1,15 @@
+.header {
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+}
+.header img {
+  width: 50px;
+  margin: 5px;
+}
+.loginBlock {
+  text-align: right;
+}
+.loginBlock a {
+  color: white;
+  text-decoration: none;
+}
